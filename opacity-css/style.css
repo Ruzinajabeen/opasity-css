@@ -1,0 +1,21 @@
+body{
+ background-color: rgb(230, 168, 214);
+}
+h1{
+    color:rgb(102, 9, 9)
+}
+table{
+    
+     border-width: 3px;
+     border-style: solid;
+     border-color: rgb(221, 203, 41);
+     border-radius: 6cm;
+     text-align: center;
+     padding: 5px;
+     
+
+}
+div{
+    length:100%;
+    color:blueviolet
+}
